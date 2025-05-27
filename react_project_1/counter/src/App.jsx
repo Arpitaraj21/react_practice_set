@@ -1,9 +1,10 @@
+import Counter from "./Counter/Counter"
 
 function App() {
 
   return (
     <>
-    
+    <Counter/>
     </>
   )
 }
