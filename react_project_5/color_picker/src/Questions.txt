@@ -1,0 +1,1 @@
+*5) Color Picker – Select a color from dropdown/input, show colored div accordingly.*

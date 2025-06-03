@@ -1,0 +1,34 @@
+.color-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+
+.container input {
+    width: 100%;
+    margin: 10px;
+}
+
+.submit {
+    margin: 10px;
+    padding: 10px;
+}
+
+.submit button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: rgb(18, 168, 255);
+    cursor: pointer;
+}
