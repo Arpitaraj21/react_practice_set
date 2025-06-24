@@ -1,0 +1,27 @@
+.container{
+    width: 100vw;
+    height: 100vw;
+    background-color: bisque;
+    position: absolute;
+    justify-content: center;
+    text-align: center;
+}
+
+.searchbar input{
+    width: 15vw;
+    height: 5vh;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.list {
+     position: absolute;
+    justify-content: center;
+    text-align: center;
+}
+
+table, tr, th {
+     border: 1px solid
+}
