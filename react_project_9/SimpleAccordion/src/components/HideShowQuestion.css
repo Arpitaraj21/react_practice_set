@@ -1,0 +1,30 @@
+.main-container {
+    width: 100vw;
+    height: 100vh;
+     position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: thistle;
+}
+
+.main{
+    width: 40vw;
+    height: auto;
+    position: absolute;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(150, 105, 97);
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ques{
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
