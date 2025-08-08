@@ -1,0 +1,50 @@
+.message-container {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 100vw;
+    /* background-color: blanchedalmond; */
+    height: 100vh;
+}
+
+.container {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(233, 171, 171);
+}
+
+.container textarea {
+    padding: 5px 6px;
+    border-radius: 10px;
+    border: 0px;
+    width: 25rem;
+    height: 5rem;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    background-color: rgb(233, 171, 171);
+
+}
+
+.message-container textarea:focus {
+    padding: 5px 6px;
+    outline: none;
+    border-radius: 10px;
+    border: 0px;
+    width: 25rem;
+    background-color: rgb(233, 171, 171);
+    font-size: 18px;
+
+
+
+}
+
+.message-container p {
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px 10px;
+    font-size: 14px;
+    color: rgb(133, 131, 131)
+}
